@@ -46,21 +46,6 @@ That's it! The system will:
 - Generate visualizations
 - Save results and trained models
 
-## 📁 Project Structure
-
-```
-├── main.py                 # Main application script
-├── data_generator.py       # Synthetic customer data generator
-├── data_preprocessor.py    # Data preprocessing and SMOTE
-├── models.py              # ML models and evaluation
-├── requirements.txt       # Python dependencies
-├── README.md             # This file
-├── customer_data.csv     # Generated customer dataset
-├── model_comparison.csv  # Model performance comparison
-├── churn_model_*.joblib  # Trained model files
-├── roc_curves.png       # ROC curve visualization
-└── confusion_matrices.png # Confusion matrix plots
-```
 
 ## 📈 Sample Data Features
 
@@ -231,3 +216,4 @@ This project is open source and available under the MIT License.
 **Happy Churn Prediction! 🎯**
 
 For questions or issues, please check the code comments or create an issue in the repository.
+
